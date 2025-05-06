@@ -1,12 +1,12 @@
-# React + Vite
+Project sample images are :
+![Screenshot 2025-05-06 143009](https://github.com/user-attachments/assets/a31e2444-1def-4e80-a693-1b9fd9e365a2)
+![Screenshot 2025-05-06 143021](https://github.com/user-attachments/assets/6de006d8-f12a-4d05-b4e3-5411d7b571af)
+![Screenshot 2025-05-06 143531](https://github.com/user-attachments/assets/ae84fb1e-a87a-4114-8b79-52b648005a73)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+On Mobile Device : 
+![Screenshot 2025-05-06 143114](https://github.com/user-attachments/assets/088ba7af-2be0-480a-982e-2b955bb195f6)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Project hosted on netlify , you can click on the link to see the demo:
+https://boisterous-marshmallow-b7f341.netlify.app/
